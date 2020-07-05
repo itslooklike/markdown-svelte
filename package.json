@@ -15,8 +15,14 @@
     "vscode": "^1.8.0"
   },
   "categories": [
-    "Other"
+    "Programming Languages"
   ],
+  "keywords": [
+    "svelte",
+    "highlight",
+    "markdown"
+  ],
+  "icon": "icons/logo.png",
   "contributes": {
     "grammars": [
       {
